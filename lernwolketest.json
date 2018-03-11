@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "lernwolke",
+    "id": "lernwolketest",
     "bundle": "Lernwolke.app",
     "identifier": "com.lernwolke.lernwolkemac",
     "download": "https://download.lernwolke.ch/mac_os/Lernwolke_1.0.0.dmg.zip",
