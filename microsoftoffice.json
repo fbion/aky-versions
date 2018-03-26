@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "microsoftoffice",
+    "bundle": "Microsoft Word.app",
+    "identifier": null,
+    "download": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.11.18031100_Installer.pkg",
+    "sha256": "f566c9ffe48d8a6bb72614ccb3ff91add5d57ff339274ce77e42c30148f57dfe",
+    "version": "16.11.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
+  }
+}
