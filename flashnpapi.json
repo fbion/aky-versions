@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "adobeflash",
+    "id": "flashnpapi",
     "bundle": "Adobe Flash Player Install Manager.app",
     "identifier": "com.adobe.flashplayer.installmanager",
     "download": "https://fpdownload.adobe.com/get/flashplayer/pdc/29.0.0.113/install_flash_player_osx.dmg",
