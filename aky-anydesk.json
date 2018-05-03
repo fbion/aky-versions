@@ -3,7 +3,7 @@
     "id": "aky-anydesk",
     "bundle": "AnyDesk.app",
     "identifier": "AnyDesk.AnyDesk",
-    "download": "http://anykeyit.ch/downloads/AnyDesk.app.zip",
+    "download": "https://anykey.ch/downloads/AnyDesk.app.zip",
     "sha256": null,
     "version": "2.9.7",
     "build": null,
