@@ -5,6 +5,10 @@
     "identifier": "org.geogebra6.mac",
     "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/GeoGebraMathApps.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.0.356",
     "build": "6.0.356",
     "dir": "/Applications",

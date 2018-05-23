@@ -5,6 +5,10 @@
     "identifier": "com.apple.WorkgroupManager.MountainLion",
     "download": "http://cdn-cloud.anykeyit.ch/Static/Workgroup%20Manager.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "10.9",
     "build": "421",
     "dir": "/Applications",

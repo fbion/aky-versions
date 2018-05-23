@@ -5,6 +5,10 @@
     "identifier": "com.apple.iWork.Numbers",
     "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Numbers%20for%20Sierra.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.0.1",
     "build": null,
     "dir": "/Applications",

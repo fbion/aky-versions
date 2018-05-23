@@ -5,6 +5,10 @@
     "identifier": null,
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.12.18041000_Installer.pkg",
     "sha256": "27957e2a2111bd0bc321d1ac39774875309792de22353ac380c0efcf2d91977b",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "16.12",
     "build": null,
     "dir": "/Applications",

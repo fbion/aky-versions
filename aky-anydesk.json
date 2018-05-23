@@ -5,6 +5,10 @@
     "identifier": "AnyDesk.AnyDesk",
     "download": "https://anykey.ch/downloads/AnyDesk.app.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.9.7",
     "build": null,
     "dir": "/Applications",

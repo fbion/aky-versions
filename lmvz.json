@@ -5,6 +5,10 @@
     "identifier": "ch.anykeyit.LMVZ",
     "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/LMVZ.app.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.0",
     "build": "1.0",
     "dir": "/Applications",

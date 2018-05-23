@@ -5,6 +5,10 @@
     "identifier": "com.apple.iWork.Keynote",
     "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Keynote%20for%20High%20Sierra.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.0.1",
     "build": null,
     "dir": "/Applications",

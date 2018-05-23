@@ -5,6 +5,10 @@
     "identifier": "ch.profax.rtregeln",
     "download": "http://cdn-cloud.anykeyit.ch/Static/Regeltrainer.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.4.0",
     "build": "2.4.0.1776",
     "dir": "/Applications/Lernprogramme",

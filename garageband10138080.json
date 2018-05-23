@@ -5,6 +5,10 @@
     "identifier": "com.apple.garageband10",
     "download": "http://cdn.anykeyit.ch:8080/CasperShare/Packages/GarageBand%20for%20High%20Sierra.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "10.2.0",
     "build": null,
     "dir": "/Applications",

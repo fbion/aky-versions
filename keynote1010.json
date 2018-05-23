@@ -5,6 +5,10 @@
     "identifier": "com.apple.iWork.Keynote",
     "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Keynote%20for%20Yosemite.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.6.1",
     "build": null,
     "dir": "/Applications",

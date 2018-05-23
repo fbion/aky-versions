@@ -5,6 +5,10 @@
     "identifier": "com.apple.iWork.Pages",
     "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Pages%20for%20Sierra.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "7.0.1",
     "build": null,
     "dir": "/Applications",

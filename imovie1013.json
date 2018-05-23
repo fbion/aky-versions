@@ -5,6 +5,10 @@
     "identifier": "com.apple.iMovieApp",
     "download": "http://cdn.anykeyit.ch/CasperShare/Packages/iMovie%20for%20High%20Sierra.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "10.1.9",
     "build": null,
     "dir": "/Applications",

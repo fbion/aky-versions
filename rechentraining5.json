@@ -5,6 +5,10 @@
     "identifier": "ch.profax.krt5",
     "download": "http://cdn-cloud.anykeyit.ch/Static/Rechentraining%205.app.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.0.0",
     "build": "2.0.0.5709",
     "dir": "/Applications/Lernprogramme",
