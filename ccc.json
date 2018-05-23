@@ -5,6 +5,10 @@
     "identifier": "com.bombich.ccc",
     "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.21.4630.zip",
     "sha256": "f8a42131aee64705550a018e870a2e70a7b88680121702454f20225bb246d456",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.1.21",
     "build": null,
     "dir": "/Applications",
