@@ -6,13 +6,13 @@
     "download": "http://cdn-cloud.anykeyit.ch/Static/audacity-macos-2.2.2.dmg",
     "sha256": "39a2783c78cca13e893321e0d87098739258cabbfc257119ee6cb21d0dc9037c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://wiki.audacityteam.org/wiki/Audacity_Versions",
+      "checkpoint": "633a664a999feab58749f70587edf71c7ee4e51ed1cf34c04a22f7311ad5203b"
     },
     "version": "2.2.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.audacityteam.org"
+    "web": "https://www.audacityteam.org/"
   }
 }
