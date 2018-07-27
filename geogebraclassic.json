@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "geogebraclassic.json",
+    "bundle": "GeoGebra Classic 6.app",
+    "identifier": "org.geogebra6.mac",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/GeoGebra_Classic_6-6.0.477.pkg.zip",
+    "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "6.0.477",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
+    "web": "https://www.geogebra.org/"
+  }
+}
