@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pdfpenpro@6",
+    "bundle": "PDFpenPro.app",
+    "identifier": "com.smileonmymac.PDFpenPro",
+    "download": "https://cdn.smilesoftware.com/PDFpenPro_6.3.2.zip",
+    "sha256": "710f363ea31d7eb5c84fae6edf0a6b25ee2cddbd7a72408de33155ee64f17911",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "6.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://smilesoftware.com/pdfpen-family"
+  }
+}
