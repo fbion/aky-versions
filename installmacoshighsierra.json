@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "installmacoshighsierra",
+    "bundle": "Install macOS High Sierra.app",
+    "identifier": "com.apple.InstallAssistant.HighSierra",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/Install_macOS_10.13.6-17G65.dmg",
+    "sha256": "44c4f248eb11217725bb06ccc8042f3eefb0f334458084f8fc0009458957330d",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "13.6.02",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
