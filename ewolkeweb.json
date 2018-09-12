@@ -3,13 +3,13 @@
     "id": "ewolkeweb",
     "bundle": "eWolke Web.app",
     "identifier": null,
-    "download": "http://cdn-cloud.anykeyit.ch/Static/eWolkeWeb.pkg",
-    "sha256": null,
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/eWolke%20Web.pkg.zip",
+    "sha256": "d0ee4ce3b8a8eef2dea0968dd034b4797ada35c409177b7263bc0c8f0bef8277",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
