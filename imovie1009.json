@@ -3,7 +3,7 @@
     "id": "imovie1009",
     "bundle": "iMovie.app",
     "identifier": "com.apple.iMovieApp",
-    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/iMovie%20for%20Mavericks.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/iMovie%20for%20Mavericks.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,

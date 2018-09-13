@@ -3,7 +3,7 @@
     "id": "garageband1010",
     "bundle": "GarageBand.app",
     "identifier": "com.apple.garageband10",
-    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/GarageBand%20for%20Yosemite.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/GarageBand%20for%20Yosemite.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,

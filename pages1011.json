@@ -3,7 +3,7 @@
     "id": "pages1011",
     "bundle": "Pages.app",
     "identifier": "com.apple.iWork.Pages",
-    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Pages%20for%20El%20Capitan.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Pages%20for%20El%20Capitan.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,

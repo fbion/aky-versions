@@ -3,7 +3,7 @@
     "id": "pages1009",
     "bundle": "Pages.app",
     "identifier": "com.apple.iWork.Pages",
-    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Pages%20for%20Mavericks.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Pages%20for%20Mavericks.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,

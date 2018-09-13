@@ -3,7 +3,7 @@
     "id": "numbers1011",
     "bundle": "Numbers.app",
     "identifier": "com.apple.iWork.Numbers",
-    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Numbers%20for%20El%20Capitan.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Numbers%20for%20El%20Capitan.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,
