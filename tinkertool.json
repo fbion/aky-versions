@@ -3,7 +3,7 @@
     "id": "tinkertool",
     "bundle": "TinkerTool.app",
     "identifier": "com.bresink.system.tinkertool",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/TinkerTool.dmg",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/TinkerTool.dmg",
     "sha256": "cc44f236d7307dfedde0e85eeef655466462931bed96778a556ab07d8a7cc6c3",
     "appcast": {
       "url": null,
