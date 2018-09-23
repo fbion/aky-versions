@@ -3,7 +3,7 @@
     "id": "remotedesktop",
     "bundle": "Remote Desktop.app",
     "identifier": "com.apple.RemoteDesktop",
-    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/Apple%20Remote%20Desktop.pkg.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Apple%20Remote%20Desktop.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,
