@@ -4,7 +4,7 @@
     "bundle": "GIMP.app",
     "identifier": "org.gnome.gimp",
     "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/GIMP.pkg.zip",
-    "sha256": "2f1df1f594781c99c8981b7940efa4fa5250ac40f570242ba4e5da975e3ebff5",
+    "sha256": "047c2d15afb1790e1a6c6f700e4407294fe481d728f3f025cd819f099cdf333c",
     "appcast": {
         "url": null,
         "checkpoint": null
