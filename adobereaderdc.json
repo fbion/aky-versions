@@ -4,12 +4,12 @@
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
     "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Adobe%20Acrobat%20Reader%20DC.pkg.zip",
-    "sha256": "e8f8237e045f90ec92dafef3e43e3e2f677b4d21fd7bc59697df2ba9a4d5c242",
+    "sha256": "1b17ceb1b69a8433850bca20e3642448a6405d16d41e427653cb6e0e82ef465c",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "19.008.20074",
+    "version": "19.008.20080",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
