@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "scratch2",
+    "bundle": "Scratch 2.app",
+    "identifier": "edu.media.mit.Scratch2Editor",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Scratch%202.pkg.zip",
+    "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "461",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://scratch.mit.edu/"
+  }
+}
