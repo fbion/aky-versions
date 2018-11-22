@@ -3,13 +3,13 @@
     "id": "isllight",
     "bundle": "ISL Light.app",
     "identifier": "com.islonline.isllight.inst_s",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/ISL%20Light.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/ISL%20Light.pkg.zip",
     "sha256": null,
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.4.1809.22",
+    "version": "4.4.1823.45",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
