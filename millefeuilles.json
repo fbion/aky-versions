@@ -2,14 +2,14 @@
   "recipe": {
     "id": "millefeuilles",
     "bundle": "Mille feuilles.app",
-    "identifier": "Millefeuilles",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Mille%20feuilles.app.zip",
-    "sha256": null,
+    "identifier": "ch.schulverlag.millefeuilles",
+    "download": "https://www.1000feuilles.ch/_file/676/mille-feuilles-1-0-11.dmg",
+    "sha256": "4459b4bd0bb621182f4d4bee409c0680db00d7bf79d9c21588bbbbab1c2a6167",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.0.7",
+    "version": "1.0.11",
     "build": null,
     "dir": "/Applications/Lernprogramme",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Français",
