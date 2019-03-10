@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "filezilla",
+    "bundle": "FileZilla.app",
+    "identifier": "org.filezilla-project.filezilla",
+    "download": "https://cdn-clients.anykeyit.ch/Static/FileZilla-3.41.1.pkg",
+    "sha256": "e1599324975dc4e7eee3454d172d8c2767aa5550e105d23b3017c5e03c17a904",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.41.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://filezilla-project.org/"
+  }
+}
