@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "airparrot@1",
+    "bundle": "AirParrot.app",
+    "identifier": "com.squirrels.AirParrot",
+    "download": "http://download.airsquirrels.com/AirParrot/Mac/AirParrot.dmg",
+    "sha256": "8ad1e6ad05d52fc1b92d545d559e635a81996ca62f9f4066d50215e3892aecd2",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.6.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.airsquirrels.com/airparrot/"
+  }
+}
