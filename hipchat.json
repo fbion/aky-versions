@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "hipchat",
+    "bundle": "HipChat.app",
+    "identifier": "com.hipchat.HipChat",
+    "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.2-760.zip",
+    "sha256": "4c94f7d22c6808e08a987d5f69124f3f4f3029f8e914b1c930140cd83fe734f2",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "760",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.hipchat.com/"
+  }
+}
