@@ -3,7 +3,7 @@
     "id": "graphicconverter8",
     "bundle": "GraphicConverter.app",
     "identifier": "com.lemkesoft.graphicconverter",
-    "download": "http://mirror.switch.ch/ftp/mirror/lemkesoft/gc8_build1388.dmg",
+    "download": "http://www.lemkesoft.org/files/graphicconverter/gc8_build1388.dmg",
     "sha256": "8ac5b3baff3b0677f3313addfa34ea0b4e64f1f371f442a6052c4a56bd5d104d",
     "appcast": {
         "url": null,
