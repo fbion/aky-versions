@@ -4,12 +4,12 @@
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
     "download": "https://cdn-clients.anykeyit.ch/Static/CitrixWorkspaceApp.dmg",
-    "sha256": "94ae3ffbf386734fdbd88c2f26168122e8211de110dbbae87f3480cc7b19f2e7",
+    "sha256": "2d9efe0abf84ff5a33d42abf1b7a0c1a04df49b2598b29f63f51e8361dd14e4b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "19.3.0",
+    "version": "19.3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
