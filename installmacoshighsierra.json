@@ -3,8 +3,8 @@
     "id": "installmacoshighsierra",
     "bundle": "Install macOS High Sierra.app",
     "identifier": "com.apple.InstallAssistant.HighSierra",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/Install_macOS_10.13.6-17G65.dmg",
-    "sha256": "44c4f248eb11217725bb06ccc8042f3eefb0f334458084f8fc0009458957330d",
+    "download": "https://cdn-clients.anykeyit.ch/Static/Install_macOS_10.13.6-17G66.dmg",
+    "sha256": "aa9cf1efa6000dbbc7ba4621b1da4e10fa83c7c792e285e2fdb10d4053e7ae8d",
     "appcast": {
       "url": null,
       "checkpoint": null
