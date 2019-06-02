@@ -3,13 +3,13 @@
     "id": "audacity",
     "bundle": "Audacity.app",
     "identifier": "org.audacityteam.audacity",
-    "download": "https://github.com/suschizu/audacity-mirror/raw/master/audacity-macos-2.3.0.dmg",
-    "sha256": "16684a03a6e6aacac0962636735ce7d9bf11483f6d194b05729981136cced9eb",
+    "download": "https://github.com/suschizu/audacity-mirror/raw/master/audacity-macos-2.3.2.dmg",
+    "sha256": "0d2ea6de4f2cbd960abb6a6e020b51f6637423c072422596691960fcfae67206",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.3.0.0",
+    "version": "2.3.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
