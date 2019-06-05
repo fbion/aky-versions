@@ -3,14 +3,14 @@
     "id": "scratch2",
     "bundle": "Scratch 2.app",
     "identifier": "edu.media.mit.Scratch2Editor",
-    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Scratch%202.pkg.zip",
-    "sha256": null,
+    "download": "https://cdn-clients.anykeyit.ch/Static/Scratch%202-461.pkg",
+    "sha256": "32b2c0cd51e80d80f2f63afce616b2a70c46ed46e46f1f7d83e4dad8c4ed46e3",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
-    "version": "461",
-    "build": null,
+    "version": null,
+    "build": "461",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://scratch.mit.edu/"
