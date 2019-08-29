@@ -3,13 +3,13 @@
     "id": "installmacosmojave",
     "bundle": "Install macOS Mojave.app",
     "identifier": "com.apple.InstallAssistant.Mojave",
-    "download": "https://cdn-clients.anykeyit.ch/Static/Install_macOS_10.14.5-18F132.dmg",
+    "download": "https://cdn-clients.anykeyit.ch/Static/Install_macOS_10.14.6-18G87.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "14.5.02",
+    "version": "14.6.03",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
