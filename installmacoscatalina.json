@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "installmacoscatalina",
+    "bundle": "Install macOS Catalina.app",
+    "identifier": "com.apple.InstallAssistant.Catalina",
+    "download": "https://cdn-clients.anykeyit.ch/Static/Install_macOS_10.15-19A583.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "15.0.32",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
