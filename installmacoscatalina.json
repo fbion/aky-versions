@@ -3,7 +3,7 @@
     "id": "installmacoscatalina",
     "bundle": "Install macOS Catalina.app",
     "identifier": "com.apple.InstallAssistant.Catalina",
-    "download": "https://cdn-clients.anykeyit.ch/Static/Install_macOS_10.15.1-19B88.dmg",
+    "download": "https://cdn-clients.anykeyit.ch/Static/10.15.1.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
