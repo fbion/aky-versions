@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "logitechpresentation",
+    "bundle": "Logitech Presentation.app",
+    "identifier": "com.logitech.presenter",
+    "download": "https://cdn-clients.anykeyit.ch/AutoPkg/Logitech%20Presentation-1.54.84.pkg",
+    "sha256": "e4d03b03e1e34ae9291b1bbc87de7468d6e3173984281195adb610e8b21d6b64",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.54.84",
+    "build": null,
+    "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
+    "symlink": null,
+    "web": null
+  }
+}
