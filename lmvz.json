@@ -3,14 +3,14 @@
     "id": "lmvz",
     "bundle": "LMVZ.app",
     "identifier": "ch.anykeyit.LMVZ",
-    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/LMVZ.app.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/LMVZ.app.zip",
     "sha256": null,
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.0",
-    "build": "1.0",
+    "version": "1.1",
+    "build": "1.1",
     "dir": "/Applications",
     "symlink": null,
     "web": null
