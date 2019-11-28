@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "jamfadmintools",
+    "id": "jamfproadmintools",
     "bundle": "Jamf Admin.app",
     "identifier": "com.jamfsoftware.JamfAdmin",
     "download": "https://cdn-cloud.anykeyit.ch/Static/JamfAdminTools.pkg.zip",
