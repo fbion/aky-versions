@@ -3,7 +3,7 @@
     "id": "jamfadmintools",
     "bundle": "Jamf Admin.app",
     "identifier": "com.jamfsoftware.JamfAdmin",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/JamfAdminTools.pkz.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/JamfAdminTools.pkg.zip",
     "sha256": null,
     "appcast": {
       "url": null,
