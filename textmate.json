@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "textmate",
+    "bundle": "TextMate.app",
+    "identifier": "com.macromates.TextMate",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-bottles/TextMate2-2.0.6.pkg",
+    "sha256": "ddbcd1a2e50e26746e2a6218dd0eaec5bdae6dd20d6ac83b05d2cbe4e0780bce",
+    "appcast": {
+      "url": "https://api.textmate.org/releases/release?os=10.14.6",
+      "checkpoint": "b441c0f57311f116df7d09a759a08ac91f379f3ee09363120efffd051f5ce58f"
+    },
+    "version": "2.0.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://macromates.com/"
+  }
+}
