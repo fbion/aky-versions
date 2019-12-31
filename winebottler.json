@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "winebottler",
+    "bundle": "WineBottler.app",
+    "identifier": "org.kronenberg.WineBottler",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-bottles/WineBottler-1.8.6.pkg",
+    "sha256": "23ef742f5b121c214bf18376708ff33d7815504864795d76f83f68e5b3841c60",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.8.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://winebottler.kronenberg.org/"
+  }
+}
