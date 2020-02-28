@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "avogadro",
+    "bundle": "Avogadro.app",
+    "identifier": "net.sourceforge",
+    "download": "https://downloads.sourceforge.net/avogadro/avogadro/1.2.0/Avogadro-1.2.0.dmg",
+    "sha256": "8a9567a2f3ebf162eab8e375073ea84cd28483f004c7cd3cae33e21864615cc7",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "1.2.0",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://avogadro.cc/"
+  }
+}
