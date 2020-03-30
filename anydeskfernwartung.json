@@ -2,7 +2,7 @@
   "recipe": {
     "id": "anydeskfernwartung",
     "bundle": "AnyDesk.app",
-    "identifier": "com.philandro.anydesk",
+    "identifier": "com.philandro.anydesk_ad_52e7bffe",
     "download": "https://get.anydesk.com/eR5PfSuw/AnyDesk.dmg",
     "sha256": "b1adcfbb3eae6892262632744dabd9e5b582fa1d6f0de4bdbc5457cd3cc62153",
     "appcast": {
