@@ -3,13 +3,13 @@
     "id": "hinclient",
     "bundle": "HIN Client.app",
     "identifier": "com.install4j.7047-0725-0676-0907.204",
-    "download": "http://download.hin.ch/hinclient/distribution/macos/HINClient_2.1.5.pkg",
-    "sha256": "b86a5a9816669fd76b7df399cdbba4e8bce53db0c1000fca2cb39c170643d8a0",
+    "download": "https://download.hin.ch/hinclient/distribution/macos/HINClient_2.1.7.pkg",
+    "sha256": "35375afa0226d3a04297ecdc2342fba9082db8d3f0170800fd17f2a67744fc16",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.1.5",
+    "version": "2.1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
