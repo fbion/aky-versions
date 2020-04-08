@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ewolkewebvolketswil",
+    "bundle": "eWolke Web.app",
+    "identifier": null,
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/eWolke%20Web%20Volketswil.pkg.zip",
+    "sha256": "9444e67f2a4eb0375a05bb1a61a0cb2a6081bddebe83d1f7bd1fc2dee94de273",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "1.2.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
