@@ -4,7 +4,7 @@
     "bundle": "HIN Talk Video.app",
     "identifier": "org.jitsi.jitsi-meet",
     "download": "https://cdn-clients.anykeyit.ch/Static/hintalkvideo-2.0.2.dmg",
-    "sha256": "c5e60c4dea68047ceb0bf8b1cca046c17e33adb6dc60c0098dfc438c4d9bd211",
+    "sha256": "fd2c347cf2678e29764474b053e826b2a07730d480afb85c19e123d4c3099bec",
     "appcast": {
       "url": null,
       "checkpoint": null
