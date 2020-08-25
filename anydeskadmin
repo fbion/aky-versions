@@ -4,7 +4,7 @@
     "bundle": "AnyDesk.app",
     "identifier": "com.philandro.anydesk_ad_52e7bffe",
     "download": "https://get.anydesk.com/qMwK9Oso/AnyDesk_Admin_for_anykey.dmg",
-    "sha256": null,
+    "sha256": 2aef3e075084cb21eff7f40af4fb8dd556a00d7951cb16c5191d03043b8980a9,
     "appcast": {
       "url": null,
       "checkpoint": null
