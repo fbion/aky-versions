@@ -2,14 +2,14 @@
   "recipe": {
     "id": "printer2amy",
     "bundle": "Printer2Amy.app",
-    "identifier": "ch.hallo.Printer2Amy",
+    "identifier": "ch.anykey.Printer2Amy",
     "download": "https://cdn-clients.anykeyit.ch/Static/Printer2Amy.zip",
-    "sha256": "e8cf9b669ce330e7eb3c16e82fde1fe21e13e44e6f6a7296beb59d8fc0f941a7",
+    "sha256": "982ae683840079ba902f6bb243d73855e6bdc51675ffa657d200df93ec20f057",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "13.37",
+    "version": "1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
