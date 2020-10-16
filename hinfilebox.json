@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "hinfilebox",
+    "bundle": "HIN Filebox.app",
+    "identifier": "com.nextcloud.desktopclient",
+    "download": "https://cdn-clients.anykeyit.ch/Static/HIN%20Filebox.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "2.6.4.0",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
