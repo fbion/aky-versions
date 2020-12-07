@@ -1,0 +1,21 @@
+{
+  "recipe": {
+    "id": "lens",
+    "bundle": "Lens.app",
+    "identifier": "com.electron.kontena-lens",
+    "processes": [
+      "Lens"
+    ],
+    "download": "https://github.com/lensapp/lens/releases/download/v3.6.9/Lens-3.6.9.dmg",
+    "sha256": "c97634db6b28b74f032324950ade23825f93d0251528bcb797b873e056a0ebec",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.6.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://k8slens.dev/"
+  }
+}
