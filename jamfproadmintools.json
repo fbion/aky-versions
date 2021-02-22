@@ -4,12 +4,12 @@
     "bundle": "Jamf Admin.app",
     "identifier": "com.jamfsoftware.JamfAdmin",
     "download": "https://cdn-cloud.anykeyit.ch/Static/JamfProAdminTools.pkg.zip",
-    "sha256": "null",
+    "sha256": "e3c22025b489c5980797c36d73d64b51cc53820d58dd59f72f5d53e7664ed3ed",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.24.2",
+    "version": "10.27.0",
     "build": null,
     "dir": "/Applications/Jamf Pro",
     "symlink": null,
