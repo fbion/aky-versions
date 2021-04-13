@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "atlasofswitzerland",
-    "bundle": "AtlasOfSwitzerland.app",
-    "identifier": "ch.ethz.mac.atlasofswitzerland.main",
-    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Static/AtlasOfSwitzerland-1.4.22.1.pkg",
-    "sha256": "e64a21e46c36595d05d0ddd5f2436ba4ea9328cf9616300629b9d025f3d6a94d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.4.22",
     "build": null,
+    "bundle": "AtlasOfSwitzerland.app",
     "dir": "/Applications",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Static/AtlasOfSwitzerland-1.4.22.1.pkg",
+    "id": "atlasofswitzerland",
+    "identifier": "ch.ethz.mac.atlasofswitzerland.main",
+    "sha256": "e64a21e46c36595d05d0ddd5f2436ba4ea9328cf9616300629b9d025f3d6a94d",
     "symlink": null,
+    "version": "1.4.22",
     "web": "http://www.atlasderschweiz.ch/"
   }
 }

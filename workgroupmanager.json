@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "workgroupmanager",
-    "bundle": "Workgroup Manager.app",
-    "identifier": "com.apple.WorkgroupManager.MountainLion",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Workgroup%20Manager.pkg.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.9",
     "build": "421",
+    "bundle": "Workgroup Manager.app",
     "dir": "/Applications",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Workgroup%20Manager.pkg.zip",
+    "id": "workgroupmanager",
+    "identifier": "com.apple.WorkgroupManager.MountainLion",
+    "sha256": null,
     "symlink": null,
+    "version": "10.9",
     "web": null
   }
 }

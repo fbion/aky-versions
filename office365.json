@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "office365",
-    "bundle": "Office 365.app",
-    "identifier": "ch.anykeyit.Office365",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Office%20365.pkg",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0",
     "build": "1.0",
+    "bundle": "Office 365.app",
     "dir": "/Applications",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Office%20365.pkg",
+    "id": "office365",
+    "identifier": "ch.anykeyit.Office365",
+    "sha256": null,
     "symlink": null,
+    "version": "1.0",
     "web": null
   }
 }

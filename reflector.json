@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "reflector",
-    "bundle": "Reflector.app",
-    "identifier": "com.squirrels.Reflection",
-    "download": "http://download.airsquirrels.com/Reflector/Mac/Reflector.dmg",
-    "sha256": "d118eb5ae06d3551997f33671ad062b45cb12b13f561aab7b77829c583566e0a",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.6.7.0",
     "build": null,
+    "bundle": "Reflector.app",
     "dir": "/Applications",
+    "download": "http://download.airsquirrels.com/Reflector/Mac/Reflector.dmg",
+    "id": "reflector",
+    "identifier": "com.squirrels.Reflection",
+    "sha256": "d118eb5ae06d3551997f33671ad062b45cb12b13f561aab7b77829c583566e0a",
     "symlink": null,
+    "version": "1.6.7.0",
     "web": "http://www.airsquirrels.com/reflector/"
   }
 }

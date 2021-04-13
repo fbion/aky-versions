@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "tigerjython",
-    "bundle": "TigerJython.app",
-    "identifier": "org.IS1Mac.TigerJython-Mac",
-    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/TigerJython.pkg.zip",
-    "sha256": "d34cd89dc8ce2c81f0f4fc59a69e60dfadae131afea0d0cfe65383cd40c73d9d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0",
     "build": null,
+    "bundle": "TigerJython.app",
     "dir": "/Applications/TigerJython",
+    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/TigerJython.pkg.zip",
+    "id": "tigerjython",
+    "identifier": "org.IS1Mac.TigerJython-Mac",
+    "sha256": "d34cd89dc8ce2c81f0f4fc59a69e60dfadae131afea0d0cfe65383cd40c73d9d",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Informatik",
+    "version": "1.0",
     "web": "http://www.tjgroup.ch/"
   }
 }

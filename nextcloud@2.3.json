@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "nextcloud@2.3",
-    "bundle": "nextcloud.app",
-    "identifier": "com.nextcloud.desktopclient",
-    "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.3.3.84.pkg",
-    "sha256": "87c551d015a4e64bffe39f775b8ba46a3b9a424988e03ae8a5d753de2b4a7a8e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.3.3 (build 84)",
     "build": null,
+    "bundle": "nextcloud.app",
     "dir": "/Applications",
+    "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.3.3.84.pkg",
+    "id": "nextcloud@2.3",
+    "identifier": "com.nextcloud.desktopclient",
+    "sha256": "87c551d015a4e64bffe39f775b8ba46a3b9a424988e03ae8a5d753de2b4a7a8e",
     "symlink": null,
+    "version": "2.3.3 (build 84)",
     "web": "https://nextcloud.com/"
   }
 }

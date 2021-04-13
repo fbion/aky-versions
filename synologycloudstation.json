@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "synologycloudstation",
-    "bundle": "Synology Cloud Station.app",
-    "identifier": null,
-    "download": "https://global.download.synology.com/download/Tools/CloudStationDrive/4.2.3-4385/Mac/Installer/synology-cloud-station-drive-4385.dmg",
-    "sha256": "0bf76452615a1bef2e8c3efdc9fe58b552842793c742b2e21f94ed89220a0c03",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.2.3",
     "build": null,
+    "bundle": "Synology Cloud Station.app",
     "dir": "/Applications",
+    "download": "https://global.download.synology.com/download/Tools/CloudStationDrive/4.2.3-4385/Mac/Installer/synology-cloud-station-drive-4385.dmg",
+    "id": "synologycloudstation",
+    "identifier": null,
+    "sha256": "0bf76452615a1bef2e8c3efdc9fe58b552842793c742b2e21f94ed89220a0c03",
     "symlink": null,
+    "version": "4.2.3",
     "web": "https://www.synology.com/"
   }
 }

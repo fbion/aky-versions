@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "isllight",
-    "bundle": "ISL Light.app",
-    "identifier": "com.islonline.isllight.inst_s",
-    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/ISL%20Light.pkg.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.4.1823.45",
     "build": null,
+    "bundle": "ISL Light.app",
     "dir": "/Applications",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/ISL%20Light.pkg.zip",
+    "id": "isllight",
+    "identifier": "com.islonline.isllight.inst_s",
+    "sha256": null,
     "symlink": null,
+    "version": "4.4.1823.45",
     "web": "https://www.islonline.com/"
   }
 }

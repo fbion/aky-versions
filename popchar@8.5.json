@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "popchar@8.5",
-    "bundle": "PopChar.app",
-    "identifier": "com.macility.popchar3",
-    "download": "https://www.ergonis.com/downloads/archive/popcharx/PopCharX85-Install.dmg",
-    "sha256": "ef043d9c091835a45cd142bcb4df2784c47859be8a61e6814c92c7ecee0dfa9d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.5",
     "build": null,
+    "bundle": "PopChar.app",
     "dir": "/Applications",
+    "download": "https://www.ergonis.com/downloads/archive/popcharx/PopCharX85-Install.dmg",
+    "id": "popchar@8.5",
+    "identifier": "com.macility.popchar3",
+    "sha256": "ef043d9c091835a45cd142bcb4df2784c47859be8a61e6814c92c7ecee0dfa9d",
     "symlink": null,
+    "version": "8.5",
     "web": "http://www.ergonis.com/products/popcharx/"
   }
 }

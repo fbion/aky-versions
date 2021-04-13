@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "jamfprotect",
-    "bundle": "JamfProtect.app",
-    "identifier": "com.jamf.protect.daemon",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/JamfProtect-1.3.1+252.pkg.zip",
-    "sha256": "285226d5fe69ec62fc6bf432f130b02e69835e99f447c6ec68c1c332a71fadbb",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.3.1",
     "build": null,
+    "bundle": "JamfProtect.app",
     "dir": "/Library/Application Support/JamfProtect",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/JamfProtect-1.3.1+252.pkg.zip",
+    "id": "jamfprotect",
+    "identifier": "com.jamf.protect.daemon",
+    "sha256": "285226d5fe69ec62fc6bf432f130b02e69835e99f447c6ec68c1c332a71fadbb",
     "symlink": null,
+    "version": "1.3.1",
     "web": null
   }
 }

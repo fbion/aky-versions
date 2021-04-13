@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "regeltrainerpro",
-    "bundle": "RegeltrainerPro.app",
-    "identifier": "ch.profax.rtpro",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/RegeltrainerPro.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.4.0",
     "build": "2.4.0.1776",
+    "bundle": "RegeltrainerPro.app",
     "dir": "/Applications/Lernprogramme",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/RegeltrainerPro.zip",
+    "id": "regeltrainerpro",
+    "identifier": "ch.profax.rtpro",
+    "sha256": null,
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Deutsch",
+    "version": "2.4.0",
     "web": null
   }
 }

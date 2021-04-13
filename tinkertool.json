@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "tinkertool",
-    "bundle": "TinkerTool.app",
-    "identifier": "com.bresink.system.tinkertool",
-    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/TinkerTool.dmg",
-    "sha256": "cc44f236d7307dfedde0e85eeef655466462931bed96778a556ab07d8a7cc6c3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.4",
     "build": null,
+    "bundle": "TinkerTool.app",
     "dir": "/Applications",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/TinkerTool.dmg",
+    "id": "tinkertool",
+    "identifier": "com.bresink.system.tinkertool",
+    "sha256": "cc44f236d7307dfedde0e85eeef655466462931bed96778a556ab07d8a7cc6c3",
     "symlink": null,
+    "version": "6.4",
     "web": "https://www.bresink.com/osx/TinkerTool-de.html"
   }
 }

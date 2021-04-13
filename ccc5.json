@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "ccc5",
-    "bundle": "Carbon Copy Cloner.app",
-    "identifier": "com.bombich.ccc",
-    "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-5.1.25.6155.zip",
-    "sha256": "7d32533b6da7b9f9cbae45c21280157c86ceaa4539609d74a0a02f8bc3221fdd",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.1.25",
     "build": null,
+    "bundle": "Carbon Copy Cloner.app",
     "dir": "/Applications",
+    "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-5.1.25.6155.zip",
+    "id": "ccc5",
+    "identifier": "com.bombich.ccc",
+    "sha256": "7d32533b6da7b9f9cbae45c21280157c86ceaa4539609d74a0a02f8bc3221fdd",
     "symlink": null,
+    "version": "5.1.25",
     "web": "https://bombich.com/"
   }
 }

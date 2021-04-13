@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "graphicconverter8",
-    "bundle": "GraphicConverter.app",
-    "identifier": "com.lemkesoft.graphicconverter",
-    "download": "http://www.lemkesoft.org/files/graphicconverter/gc8_build1388.dmg",
-    "sha256": "8ac5b3baff3b0677f3313addfa34ea0b4e64f1f371f442a6052c4a56bd5d104d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.8.3",
     "build": "1388",
+    "bundle": "GraphicConverter.app",
     "dir": "/Applications",
+    "download": "http://www.lemkesoft.org/files/graphicconverter/gc8_build1388.dmg",
+    "id": "graphicconverter8",
+    "identifier": "com.lemkesoft.graphicconverter",
+    "sha256": "8ac5b3baff3b0677f3313addfa34ea0b4e64f1f371f442a6052c4a56bd5d104d",
     "symlink": null,
+    "version": "8.8.3",
     "web": "https://www.lemkesoft.de/produkte/graphicconverter/"
   }
 }

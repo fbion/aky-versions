@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "jabrasuite",
-    "bundle": "Jabra Firmware Updater.app",
-    "identifier": "com.dev.Jabra-Firmware-Updater",
-    "download": "https://www.jabra.com/macsuite/2.13.0/Jabra%20Suite%20for%20Mac.dmg",
-    "sha256": "056f34951ee4b47b0eaa85c7f2fdded616d3039613b53ba212a898f961cd3627",
     "appcast": {
-        "url": "https://www.jabra.com/macsuite/JMSVersionUpdate.xml",
-        "checkpoint": "b989ac8a1f89c38736101e95aa127859f1cee66aeac682beb3004d50f2e99d45"
+      "checkpoint": "b989ac8a1f89c38736101e95aa127859f1cee66aeac682beb3004d50f2e99d45",
+      "url": "https://www.jabra.com/macsuite/JMSVersionUpdate.xml"
     },
-    "version": "2.13.0",
     "build": null,
+    "bundle": "Jabra Firmware Updater.app",
     "dir": "/Applications",
+    "download": "https://www.jabra.com/macsuite/2.13.0/Jabra%20Suite%20for%20Mac.dmg",
+    "id": "jabrasuite",
+    "identifier": "com.dev.Jabra-Firmware-Updater",
+    "sha256": "056f34951ee4b47b0eaa85c7f2fdded616d3039613b53ba212a898f961cd3627",
     "symlink": null,
+    "version": "2.13.0",
     "web": "https://www.jabra.com/software-and-services/jabra-suite-for-mac"
   }
 }

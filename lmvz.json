@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "lmvz",
-    "bundle": "LMVZ.app",
-    "identifier": "ch.anykeyit.LMVZ",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/LMVZ.app.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1",
     "build": "1.1",
+    "bundle": "LMVZ.app",
     "dir": "/Applications",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/LMVZ.app.zip",
+    "id": "lmvz",
+    "identifier": "ch.anykeyit.LMVZ",
+    "sha256": null,
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten",
+    "version": "1.1",
     "web": null
   }
 }

@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "hipchat",
-    "bundle": "HipChat.app",
-    "identifier": "com.hipchat.HipChat",
-    "download": "https://s3.amazonaws.com/hipchat-server-stable/clients/macos/HipChat-latest.dmg",
-    "sha256": "0f7680eac626fafff0b7e5d7211901cb0d30494a73326eadad4bc9ae05fbf4af",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.30.2",
     "build": null,
+    "bundle": "HipChat.app",
     "dir": "/Applications",
+    "download": "https://s3.amazonaws.com/hipchat-server-stable/clients/macos/HipChat-latest.dmg",
+    "id": "hipchat",
+    "identifier": "com.hipchat.HipChat",
+    "sha256": "0f7680eac626fafff0b7e5d7211901cb0d30494a73326eadad4bc9ae05fbf4af",
     "symlink": null,
+    "version": "4.30.2",
     "web": "https://www.hipchat.com/"
   }
 }

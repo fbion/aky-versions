@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "devonthinkprooffice",
-    "bundle": "DEVONthink Pro.app",
-    "identifier": "com.devon-technologies.thinkpro2",
-    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.3/DEVONthink_Pro_Office.dmg.zip",
-    "sha256": "d34da8d45d19c4a66287d3f260b755f1d3fdd0ae88bf73d6944fd880d558ba95",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.11.3",
     "build": null,
+    "bundle": "DEVONthink Pro.app",
     "dir": "/Applications",
+    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.3/DEVONthink_Pro_Office.dmg.zip",
+    "id": "devonthinkprooffice",
+    "identifier": "com.devon-technologies.thinkpro2",
+    "sha256": "d34da8d45d19c4a66287d3f260b755f1d3fdd0ae88bf73d6944fd880d558ba95",
     "symlink": null,
+    "version": "2.11.3",
     "web": "https://www.devontechnologies.com/apps/devonthink"
   }
 }

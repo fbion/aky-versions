@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "jamfproadmintools",
-    "bundle": "Jamf Admin.app",
-    "identifier": "com.jamfsoftware.JamfAdmin",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/JamfProAdminTools.pkg.zip",
-    "sha256": "e3c22025b489c5980797c36d73d64b51cc53820d58dd59f72f5d53e7664ed3ed",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.27.0",
     "build": null,
+    "bundle": "Jamf Admin.app",
     "dir": "/Applications/Jamf Pro",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/JamfProAdminTools.pkg.zip",
+    "id": "jamfproadmintools",
+    "identifier": "com.jamfsoftware.JamfAdmin",
+    "sha256": "e3c22025b489c5980797c36d73d64b51cc53820d58dd59f72f5d53e7664ed3ed",
     "symlink": null,
+    "version": "10.27.0",
     "web": "https://docs.jamf.com/jamf-pro/release-notes/What's_New.html/"
   }
 }

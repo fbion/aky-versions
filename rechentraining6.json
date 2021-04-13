@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "rechentraining6",
-    "bundle": "Rechentraining 6.app",
-    "identifier": "ch.profax.krt6",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Rechentraining%206.app.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.0",
     "build": "2.0.0.5711",
+    "bundle": "Rechentraining 6.app",
     "dir": "/Applications/Lernprogramme",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Rechentraining%206.app.zip",
+    "id": "rechentraining6",
+    "identifier": "ch.profax.krt6",
+    "sha256": null,
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
+    "version": "2.0.0",
     "web": null
   }
 }

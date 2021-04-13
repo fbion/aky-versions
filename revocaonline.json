@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "revocaonline",
-    "bundle": "Revoca Online.app",
-    "identifier": "ch.anykeyit.RevocaOnline",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Revoca%20Online.pkg.zip",
-    "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0",
     "build": "1.0",
+    "bundle": "Revoca Online.app",
     "dir": "/Applications",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Revoca%20Online.pkg.zip",
+    "id": "revocaonline",
+    "identifier": "ch.anykeyit.RevocaOnline",
+    "sha256": null,
     "symlink": null,
+    "version": "1.0",
     "web": null
   }
 }
