@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "VMware Fusion.app",
     "dir": "/Applications",
     "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-11.5.6-16696540.dmg",

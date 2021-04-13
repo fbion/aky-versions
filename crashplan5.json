@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "CrashPlan.app",
     "dir": "/Applications",
     "download": "https://download.code42.com/installs/mac/install/Code42CrashPlan/Code42CrashPlan_5.4.3_Mac.dmg",

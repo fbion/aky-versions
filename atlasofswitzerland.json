@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "AtlasOfSwitzerland.app",
     "dir": "/Applications",
     "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Static/AtlasOfSwitzerland-1.4.22.1.pkg",

@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "HipChat.app",
     "dir": "/Applications",
     "download": "https://s3.amazonaws.com/hipchat-server-stable/clients/macos/HipChat-latest.dmg",

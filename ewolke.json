@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "eWolke.app",
     "dir": "/Applications",
     "download": "http://cdn-cloud.anykeyit.ch/Static/eWolke.pkg",

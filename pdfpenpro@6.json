@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "PDFpenPro.app",
     "dir": "/Applications",
     "download": "https://cdn.smilesoftware.com/PDFpenPro_6.3.2.zip",

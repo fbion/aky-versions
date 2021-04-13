@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "PopChar.app",
     "dir": "/Applications",
     "download": "https://www.ergonis.com/downloads/archive/popcharx/PopCharX85-Install.dmg",

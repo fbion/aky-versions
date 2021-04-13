@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "Reflector.app",
     "dir": "/Applications",
     "download": "http://download.airsquirrels.com/Reflector/Mac/Reflector.dmg",

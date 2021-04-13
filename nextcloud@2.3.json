@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "nextcloud.app",
     "dir": "/Applications",
     "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.3.3.84.pkg",

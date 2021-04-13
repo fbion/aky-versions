@@ -4,7 +4,6 @@
       "checkpoint": "2f041cb28504af1392dc42d5d01c672b2ae806c211092f9718e6b2aa7cdc03b8",
       "url": "https://www.tug.org/mactex/downloading.html"
     },
-    "build": null,
     "bundle": "TeXShop.app",
     "dir": "/Applications/TeX",
     "download": "http://mirror.ctan.org/systems/mac/mactex/mactex-20200407.pkg",

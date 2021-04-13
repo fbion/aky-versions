@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "WineBottler.app",
     "dir": "/Applications",
     "download": "https://s3.eu-central-1.wasabisys.com/aky-bottles/WineBottler-1.8.6.pkg",

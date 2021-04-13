@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": "1.2.0",
     "bundle": "Avogadro.app",
     "dir": "/Applications",
     "download": "https://downloads.sourceforge.net/avogadro/avogadro/1.2.0/Avogadro-1.2.0.dmg",

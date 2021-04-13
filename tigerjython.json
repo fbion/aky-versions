@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "TigerJython.app",
     "dir": "/Applications/TigerJython",
     "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/TigerJython.pkg.zip",

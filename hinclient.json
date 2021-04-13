@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "HIN Client.app",
     "dir": "/Applications",
     "download": "https://download.hin.ch/hinclient/distribution/macos/HINClient_3.1.8.pkg",

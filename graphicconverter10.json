@@ -4,7 +4,6 @@
       "checkpoint": "e66ceea31ff1f43409b914e978e92e8b6c528f90278da4e64445af25c401a742",
       "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter10.xml"
     },
-    "build": null,
     "bundle": "GraphicConverter 10.app",
     "dir": "/Applications",
     "download": "https://www.lemkesoft.info/files/graphicconverter/gc10_build3460.zip",

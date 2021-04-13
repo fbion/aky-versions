@@ -4,7 +4,6 @@
       "checkpoint": "42d5061a3487829d29f79d83536ac586effe8c7f902fb9379d15217ddae203bb",
       "url": "https://s3.amazonaws.com/updater.plasq.com/comiclife2-appcast.xml"
     },
-    "build": null,
     "bundle": "Comic Life 2.app",
     "dir": "/Applications",
     "download": "http://downloads.plasq.com/comiclife2.zip",

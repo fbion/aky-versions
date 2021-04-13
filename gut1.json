@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": "1.0",
     "bundle": "GUT1.app",
     "dir": "/Applications",
     "download": "http://cdn-cloud.anykeyit.ch/Static/GUT1.zip",

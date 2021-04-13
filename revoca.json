@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": "5.4.1",
     "bundle": "Revoca 5.app",
     "dir": "/Applications",
     "download": "http://old.revoca.ch/Downloads/Revoca_541_OSX.zip",

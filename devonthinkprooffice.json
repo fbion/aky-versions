@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "DEVONthink Pro.app",
     "dir": "/Applications",
     "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.3/DEVONthink_Pro_Office.dmg.zip",

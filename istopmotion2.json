@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "iStopMotion.app",
     "dir": "/Applications",
     "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_2.8.4-13876.dmg",

@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "Synology Cloud Station.app",
     "dir": "/Applications",
     "download": "https://global.download.synology.com/download/Tools/CloudStationDrive/4.2.3-4385/Mac/Installer/synology-cloud-station-drive-4385.dmg",

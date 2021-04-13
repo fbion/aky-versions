@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": "2.6.4.0",
     "bundle": "HIN Filebox.app",
     "dir": "/Applications",
     "download": "https://cdn-clients.anykeyit.ch/Static/HIN%20Filebox.pkg",

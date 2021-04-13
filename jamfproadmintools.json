@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "Jamf Admin.app",
     "dir": "/Applications/Jamf Pro",
     "download": "https://cdn-cloud.anykeyit.ch/Static/JamfProAdminTools.pkg.zip",

@@ -4,7 +4,6 @@
       "checkpoint": "b989ac8a1f89c38736101e95aa127859f1cee66aeac682beb3004d50f2e99d45",
       "url": "https://www.jabra.com/macsuite/JMSVersionUpdate.xml"
     },
-    "build": null,
     "bundle": "Jabra Firmware Updater.app",
     "dir": "/Applications",
     "download": "https://www.jabra.com/macsuite/2.13.0/Jabra%20Suite%20for%20Mac.dmg",

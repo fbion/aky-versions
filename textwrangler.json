@@ -4,7 +4,6 @@
       "checkpoint": null,
       "url": null
     },
-    "build": null,
     "bundle": "TextWrangler.app",
     "dir": "/Applications",
     "download": "https://s3.amazonaws.com/BBSW-download/TextWrangler_5.5.2.dmg",
