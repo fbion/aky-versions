@@ -1,0 +1,20 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Lens.app",
+    "dir": "/Applications",
+    "download": "https://github.com/lensapp/lens/releases/download/v4.2.1/Lens-4.2.1.dmg",
+    "id": "lens",
+    "identifier": "com.electron.kontena-lens",
+    "processes": [
+      "Lens"
+    ],
+    "sha256": null,
+    "symlink": null,
+    "version": "4.2.1",
+    "web": "https://k8slens.dev/"
+  }
+}
