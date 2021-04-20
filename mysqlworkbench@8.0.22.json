@@ -11,7 +11,7 @@
     "identifier": "com.oracle.workbench.MySQLWorkbench",
     "sha256": "4e27de82d869043cf80e803f1a57cc041a91cabddf0aa6a6c054d68af1837d48",
     "symlink": null,
-    "version": "8.0.22",
+    "version": "8.0.22.CE",
     "web": "https://www.mysql.com/products/workbench/"
   }
 }
