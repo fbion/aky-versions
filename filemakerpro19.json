@@ -1,0 +1,17 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "FileMaker Pro.app",
+    "dir": "/Applications",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/FileMakerPro-19.3.2.pkg.zip",
+    "id": "filemakerpro19",
+    "identifier": "com.filemaker.client.pro12",
+    "sha256": "285226d5fe69ec62fc6bf432f130b02e69835e99f447c6ec68c1c332a71fadbb",
+    "symlink": null,
+    "version": "19.3.2",
+    "web": null
+  }
+}
