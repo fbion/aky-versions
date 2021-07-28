@@ -6,10 +6,10 @@
     },
     "bundle": "Printer2Amy.app",
     "dir": "/Applications",
-    "download": "https://cdn-clients.anykeyit.ch/Static/Printer2Amy.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/Static/Printer2Amy.pkg",
     "id": "printer2amy",
     "identifier": "ch.anykey.Printer2Amy",
-    "sha256": "982ae683840079ba902f6bb243d73855e6bdc51675ffa657d200df93ec20f057",
+    "sha256": "68f40d6644e6d8440bc2330748607fa5ae15e2a7ca4a86e22acc3ed0c0efde1d",
     "symlink": null,
     "version": "1.1",
     "web": null
