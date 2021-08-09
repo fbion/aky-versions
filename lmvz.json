@@ -6,12 +6,12 @@
     },
     "bundle": "LMVZ.app",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/Static/LMVZ.app.zip",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/LMVZ-1.2.pkg",
     "id": "lmvz",
-    "identifier": "ch.anykeyit.LMVZ",
+    "identifier": "ch.anykey.LMVZ",
     "sha256": null,
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten",
-    "version": "1.1",
+    "version": "1.2",
     "web": null
   }
 }
