@@ -9,9 +9,9 @@
     "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/TigerJython.pkg.zip",
     "id": "tigerjython",
     "identifier": "org.IS1Mac.TigerJython-Mac",
-    "sha256": "d34cd89dc8ce2c81f0f4fc59a69e60dfadae131afea0d0cfe65383cd40c73d9d",
+    "sha256": "b5764200d865a9a4d5b7d3dced3f2c5582d8daa91e770671ebeb699e32510fda",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Informatik",
     "version": "1.0",
-    "web": "http://www.tjgroup.ch/"
+    "web": "https://www.tigerjython.ch/"
   }
 }
