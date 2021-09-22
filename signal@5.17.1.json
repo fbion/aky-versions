@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Signal.app",
+    "dir": "/Applications",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.17.1.dmg",
+    "id": "signal",
+    "identifier": "org.whispersystems.signal-desktop",
+    "processes": [],
+    "sha256": "371b1ff5199fb8eda58c18c6530f59c67fb29c823710d759fa0495bc5ac5abea",
+    "symlink": null,
+    "version": "5.17.1",
+    "web": "https://signal.org/"
+  }
+}
