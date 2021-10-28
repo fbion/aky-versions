@@ -1,0 +1,17 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "VMware Fusion.app",
+    "dir": "/Applications",
+    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.2-17964953.dmg",
+    "id": "vmwarefusion@12.1.2",
+    "identifier": "com.vmware.fusion",
+    "sha256": "873049d4080168b56085c5b67be1d4eeb14debc0e6cf176dbd52c78518d0b883",
+    "symlink": null,
+    "version": "12.1.2",
+    "web": "https://www.vmware.com/products/fusion.html"
+  }
+}
