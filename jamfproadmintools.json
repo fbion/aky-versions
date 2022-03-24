@@ -9,9 +9,9 @@
     "download": "https://cdn-cloud.anykeyit.ch/Static/JamfProAdminTools.pkg.zip",
     "id": "jamfproadmintools",
     "identifier": "com.jamfsoftware.JamfAdmin",
-    "sha256": "11eadab9c0b896761da7437bfeaf50bdb322a0cbb027ac8606c0cd455037834e",
+    "sha256": "9c49b10addb08ccc5fe80378c114d525cdd5c7d659576ca079d7d5c82f958fb2",
     "symlink": null,
-    "version": "10.35.0",
+    "version": "10.37.0",
     "web": "https://docs.jamf.com/jamf-pro/release-notes/What's_New.html/"
   }
 }
