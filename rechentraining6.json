@@ -6,10 +6,10 @@
     },
     "bundle": "Rechentraining 6.app",
     "dir": "/Applications/Lernprogramme",
-    "download": "http://cdn-cloud.anykeyit.ch/Static/Rechentraining%206.app.zip",
+    "download": "http://cdn-clients.anykeyit.ch/aky-assets/Rechentraining6-2.0.0.pkg",
     "id": "rechentraining6",
     "identifier": "ch.profax.krt6",
-    "sha256": null,
+    "sha256": "e07a9e66d02a410e3aa531a8d7b22c81255dcf063965152ae7e6a1b3ff92e170",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
     "version": "2.0.0",
     "web": null
